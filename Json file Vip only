@@ -8,12 +8,10 @@
          "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/SG.0008899.ovpn"
       },
 
-
 {
          "name": "02. TH-(Dtac & True)-VIP-2",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH%20%F0%9F%8E%AE%F0%9F%8E%AE%F0%9F%8E%AE.ovpn"
       },
-
 
 {
          "name": "04. TH-(Dtac & True)-VIP-4",
@@ -29,6 +27,7 @@
          "name": "04. TH-(Dtac & True)-VIP-4",
          "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
       },
+
 {
          "name": "05. TH-(Dtac & True)-VIP-5",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/PHYO%20HTETH%20%F0%9F%8E%AEGame.ovpn"
@@ -42,8 +41,9 @@
 {
          "name": "07. SG-(Dtac & True)-VIP-7",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/07-VIP-kokhant.ovpn"
-      }
-],
+     }
+
+   ],
 "message":"🚀 Update version - 17 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
    "version": 17
