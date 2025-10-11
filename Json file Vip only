@@ -1,70 +1,46 @@
-
-
 {
-   "files": [  
-
-
-{
-         "name": "01. SG-(Dtac & True)-VIP-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
-      },
-
-
-{
-         "name": "02. TH-(Dtac)-VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20line.ovpn"
-      },
-
-
-{
-         "name": "12. TH-(Ais)-VIP-12",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP-20-AIS.ovpn"
-      },
-
-{
-         "name": "03. TH-(Dtac & True)-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
-      },
-
-{
-         "name": "04. SG-(Dtac & True)-VIP-4",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
-      },
-{
-         "name": "05. SG-(Dtac & True)-VIP-5",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20line.ovpn"
-      },
-
-{
-         "name": "06. 🇹🇭TH-( Dtac+True ) VIP-06",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH.Game.NEWS.VIP%3D01.ovpn"
-      },
-
-{
-         "name": "07. TH-(Ais)-VIP-7",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-11-VIP-AIS.ovpn"
-      },
-
-{
-         "name": "08. TH-(Dtac & True)-VIP-8",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/CSK%20VIP-14.ovpn"
-      },
-{
-         "name": "09. 🇹🇭Thailand ( Dtac+True ) VIP-09",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
-      },
-{
-         "name": "10. 🇹🇭Thailand ( Dtac+True ) VIP-10",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/18-TH_Vip%20Dtac%20shopee.ovpn"
-      },
-{
-         "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/19-TH_Vip%20Dtac%20shopee.ovpn"
-      }
-
-   ],
-"message":"🚀 Update version - 30 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
-   "title":"Do you want to update?",
-   "version": 30
-}
-
+    "version": 7.6,
+    "message": "
+_________________________
+อัพเดทไฟล์ 7.6 แอป 443 VPN
+_________________________
+🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴢᴏᴏᴍ
+🚀 เพิ่ม ᴛʜ ᴀɪꜱ ᴘʟᴀʏ
+_________________________
+☎️ ติดต่อแอดมิน
+  • ғʙ : เจฟ.เจฟ
+  • ʟɪɴᴇ : ɢᴏᴊ5516",
+    "data": [
+    {
+    "name": "Thailand 01 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
+    },{
+    "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
+    },{
+    "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://f75a7ac3-3ea3-4cfb-873a-dd9b55de1477@support.zoom.us:80?security=none&encryption=none&type=ws&host=th2.idc.kolal.my.id&path=/vless/#TRUE-2"
+    },{
+    "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-TH3"
+    },{
+    "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
+    },{
+    "name": "Thailand 01 AIS PLAY 64K 🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
+    },{
+    "name": "Thailand 02 AIS PLAY 64K 🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
+    },{
+    "name": "Thailand 03 AIS PLAY 64K 🎮",
+    "content": "vless://f75a7ac3-3ea3-4cfb-873a-dd9b55de1477@th2.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-2"
+    },{
+    "name": "Thailand 04 AIS PLAY 64K  🎮",
+    "content": "vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-TH3"
+    },{
+    "name": "Thailand 05 AIS PLAY 64K  🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
+    }
+    ]
+    }
